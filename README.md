@@ -1,0 +1,1 @@
+# squeak-smalltalk-bot
