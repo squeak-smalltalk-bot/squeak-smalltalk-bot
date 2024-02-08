@@ -21,6 +21,10 @@ Serverless configuration to automatically forward GitHub notifications to the a 
 - An email verification should be sent from <noreply@github.com> to the list. Open the confirmation link.
 - Watch the repositories of interesting for the mailing list.
 
+## Credentials
+
+Are documented in this PRIVATE repository: <https://github.com/squeak-smalltalk-bot/credentials>
+
 ## Known Issues
 
 *to be added (If you think you find a problem with this bot, please [open an issue](https://github.com/squeak-smalltalk-bot/squeak-smalltalk-bot/issues/new)!)*
